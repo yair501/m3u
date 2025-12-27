@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:7
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hebrew",LANGUAGE="heb",DEFAULT=YES,AUTOSELECT=YES,URI="https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_hevc/live.livx/playlist.m3u8?bitrate=128000&audioId=1&lang=heb&renditions&fmp4&dvr=28800000"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Polish",LANGUAGE="pol",DEFAULT=YES,AUTOSELECT=YES,URI="https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_hevc/live.livx/playlist.m3u8?bitrate=128000&audioId=1&lang=pol&renditions&fmp4&dvr=28800000"
 
-#EXT-X-STREAM-INF:BANDWIDTH=5500000,CODECS="hvc1.1.6.L120.B0",AUDIO="audio"
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_hevc/live.livx/playlist.m3u8?bitrate=5500000&videoId=0&renditions&fmp4&dvr=28800000
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="hvc1.1.6.L120.B0",AUDIO="audio"
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_hevc/live.livx/playlist.m3u8?bitrate=3000000&videoId=4&renditions&fmp4&dvr=28800000
